@@ -1,4 +1,4 @@
-# code-server-manager
+# code-server-manager (for docker)
 
 code-server for multi users
 
