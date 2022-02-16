@@ -9,6 +9,11 @@ code-server for multi users
 
 environement: on docker and docker-compose
 
+##distro
+
+ubuntu
+Debian
+
 ## Policy
 
 1 container = 1 user
