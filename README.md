@@ -6,6 +6,9 @@ code-server for multi users
 - secure manager app
 - easy to configure
 
+
+environement: on dokker and docker-compose
+
 ## Policy
 
 1 container= 1 user
