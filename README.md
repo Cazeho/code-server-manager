@@ -20,7 +20,7 @@ environement: on docker and docker-compose
 
 bash init.sh
 
-edit docker-compose and nginx.conf (need to edit for each user)
+edit docker-compose and nginx.conf (need to edit for each new user)
 
 docker-compose up -d
 
