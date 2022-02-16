@@ -9,9 +9,10 @@ code-server for multi users
 
 environement: on docker and docker-compose
 
-##distro
+## distro
 
 ubuntu
+
 Debian
 
 ## Policy
