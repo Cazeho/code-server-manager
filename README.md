@@ -7,11 +7,11 @@ code-server for multi users
 - easy to configure
 
 
-environement: on dokker and docker-compose
+environement: on docker and docker-compose
 
 ## Policy
 
-1 container= 1 user
+1 container = 1 user
 
 
 ## Install
